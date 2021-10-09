@@ -1,0 +1,19 @@
+{
+  "name": "utilidades",
+  "version": "1.0.0",
+  "description": "Paquete de utilidades de programacion",
+  "main": "utils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmulero83/utilidades.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmulero83/utilidades/issues"
+  },
+  "homepage": "https://github.com/cmulero83/utilidades#readme"
+}
